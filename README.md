@@ -1,2 +1,2 @@
 # SimpleCustomerApp
-a demo app
+just a demo app
